@@ -19,4 +19,5 @@ public static bool IsPositionWithinArea(this Area area, Vector3 position) { ... 
 public static bool IsPositionWithinAreaWithTag(string tag, Vector3 position) { ... }
 ```
 You can use these methods to trigger certain events on entering or leaving an area. See the example scene for such a usage
+
 ![gif of example scene](./images/CrJsr8PKqd.gif)
