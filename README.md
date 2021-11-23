@@ -6,6 +6,7 @@ Simply download the Unity Asset "UnityAreaTool.asset" from the release section. 
 
 ## How to setup
 Create a new gameobject and add the AreaTool script.
+
 ![gif of how to install](./images/GBO104ZXyp.gif)
 
 ## How to use
